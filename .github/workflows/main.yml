@@ -1,0 +1,48 @@
+name: main
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    name: Build ${{ matrix.platform }}
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        platform: [windows, linux, macos]
+        include:
+          - platform: windows
+            os: windows-latest
+            target: windows
+          - platform: linux
+            os: ubuntu-latest
+            target: linux
+          - platform: macos
+            os: macos-13
+            target: mac
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Haxe
+        uses: krdlab/setup-haxe@v1
+        with:
+          haxe-version: 4.3.4
+
+      - name: Setup Lime
+        run: |
+          haxelib install lime 7.9.0
+          haxelib run lime setup -y
+          haxelib list
+
+      - name: Build ${{ matrix.target }}
+        run: haxelib run lime build project.xml ${{ matrix.target }}
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Tobor-${{ matrix.platform }}
+          path: Export/${{ matrix.platform }}/bin
