@@ -36,7 +36,7 @@ class DialogHelp extends Dialog {
 		if (Input.isKeyDown(Tobor.KEY_ENTER) || Input.mouseBtnLeft) {
 			var targets = screen.game.world.room.getEntitiesAt(cursorX, cursorY - 1);
 			if (targets.length > 0) {
-				var target:Entity = targets[0];
+				var target:Entity = targets[targets.length - 1];
 				lookTarget = target.getID();
 			}
 			
