@@ -83,85 +83,149 @@ Androiden Ei
 Pfeil
 
 [_OBJ_ARROW_1_]
+Pfeil[_OBJ_ANDROID_DESC_]
+Diese Androiden sind etwas raffinierter als die anderen Roboter.
+
+[_OBJ_ANDROID_EGG_]
+Androiden Ei
+
+[_OBJ_ANDROID_EGG_DESC_]
+Welche Kreaturen werden wohl hier in diesen Eiern ausgebrütet? Okay, Okay sie sehen etwas merkwürdig aus, aber das liegt nur an der miserablen Auflösung des Monitors...
+
+[_OBJ_ARROW_0_]
 Pfeil
+
+[_OBJ_ARROW_0_DESC_]
+Du kannst diesen Pfeil nur von Westen erreichen. Versuche es mal, es wird recht schwierig, wenn da mehr als einer ist.
+
+[_OBJ_ARROW_1_]
+Pfeil
+
+[_OBJ_ARROW_1_DESC_]
+Du kannst diesen Pfeil nur von Süden erreichen. Versuche es mal, es wird recht schwierig, wenn da mehr als einer ist.
 
 [_OBJ_ARROW_2_]
 Pfeil
 
+[_OBJ_ARROW_2_DESC_]
+Du kannst diesen Pfeil nur von Osten erreichen. Versuche es mal, es wird recht schwierig, wenn da mehr als einer ist.
+
 [_OBJ_ARROW_3_]
 Pfeil
+
+[_OBJ_ARROW_3_DESC_]
+Du kannst diesen Pfeil nur von Norden erreichen. Versuche es mal, es wird recht schwierig, wenn da mehr als einer ist.
 
 [_OBJ_BAGPACK#0_]
 Beutel
 
 [_OBJ_BAGPACK#0_DESC_]
-OBJ_BAGPACK#0_DESC
+Hier ist ein hübsch verpackter Gegenstand für Dich! Doch Vorsicht, es könnte etwas 'vergiftetes' drin sein!
 
 [_OBJ_BAGPACK#1_]
 Beutel
 
 [_OBJ_BAGPACK#1_DESC_]
-OBJ_BAGPACK#1_DESC
+Hier ist ein hübsch verpackter Gegenstand für Dich! Doch Vorsicht, es könnte etwas 'vergiftetes' drin sein!
 
 [_OBJ_BAGPACK#2_]
 Beutel
 
 [_OBJ_BAGPACK#2_DESC_]
-OBJ_BAGPACK#2_DESC
+Hier ist ein hübsch verpackter Gegenstand für Dich! Doch Vorsicht, es könnte etwas 'vergiftetes' drin sein!
 
 [_OBJ_BAGPACK#3_]
 Beutel
 
 [_OBJ_BAGPACK#3_DESC_]
-OBJ_BAGPACK#3_DESC
+Hier ist ein hübsch verpackter Gegenstand für Dich! Doch Vorsicht, es könnte etwas 'vergiftetes' drin sein!
 
 [_OBJ_BAGPACK#4_]
 Beutel
 
 [_OBJ_BAGPACK#4_DESC_]
-OBJ_BAGPACK#4_DESC
+Hier ist ein hübsch verpackter Gegenstand für Dich! Doch Vorsicht, es könnte etwas 'vergiftetes' drin sein!
 
 [_OBJ_BAGPACK_PICKUP_]
-OBJ_BAGPACK_PICKUP
+Was wohl in diesem Sack drin sein mag? Doch hoffentlich keine Katze?
 
 [_OBJ_BANK_]
 Bank
 
+[_OBJ_BANK_DESC_]
+Das ist ein guter Ort für teuere Güter. Aber hab' Geduld, der Papierkram braucht seine Zeit.
+
 [_OBJ_BARRIER_]
 Barriere
+
+[_OBJ_BARRIER_DESC_]
+Eine Barriere für unvorsichtige Abenteurer.
 
 [_OBJ_BEDROCK_0_]
 Felsgestein
 
+[_OBJ_BEDROCK_0_DESC_]
+Gestein, Fels, Gemäumer, was Du willst... Jedoch unter keinen Umständen passierbar!
+
 [_OBJ_BEDROCK_1_]
 Felsgestein
+
+[_OBJ_BEDROCK_1_DESC_]
+Gestein, Fels, Gemäumer, was Du willst... Jedoch unter keinen Umständen passierbar!
 
 [_OBJ_BEDROCK_2_]
 Felsgestein
 
+[_OBJ_BEDROCK_2_DESC_]
+Gestein, Fels, Gemäumer, was Du willst... Jedoch unter keinen Umständen passierbar!
+
 [_OBJ_BEDROCK_3_]
 Felsgestein
+
+[_OBJ_BEDROCK_3_DESC_]
+Gestein, Fels, Gemäumer, was Du willst... Jedoch unter keinen Umständen passierbar!
 
 [_OBJ_BEDROCK_4_]
 Felsgestein
 
+[_OBJ_BEDROCK_4_DESC_]
+Gestein, Fels, Gemäumer, was Du willst... Jedoch unter keinen Umständen passierbar!
+
 [_OBJ_BEDROCK_5_]
 Felsgestein
+
+[_OBJ_BEDROCK_5_DESC_]
+Gestein, Fels, Gemäumer, was Du willst... Jedoch unter keinen Umständen passierbar!
 
 [_OBJ_BEDROCK_6_]
 Felsgestein
 
+[_OBJ_BEDROCK_6_DESC_]
+Gestein, Fels, Gemäumer, was Du willst... Jedoch unter keinen Umständen passierbar!
+
 [_OBJ_BEDROCK_7_]
 Felsgestein
+
+[_OBJ_BEDROCK_7_DESC_]
+Gestein, Fels, Gemäumer, was Du willst... Jedoch unter keinen Umständen passierbar!
 
 [_OBJ_BEDROCK_8_]
 Felsgestein
 
+[_OBJ_BEDROCK_8_DESC_]
+Gestein, Fels, Gemäumer, was Du willst... Jedoch unter keinen Umständen passierbar!
+
 [_OBJ_BEDROCK_9_]
 Felsgestein
 
+[_OBJ_BEDROCK_9_DESC_]
+Gestein, Fels, Gemäumer, was Du willst... Jedoch unter keinen Umständen passierbar!
+
 [_OBJ_BEDROCK_PATH_]
 Felspfad
+
+[_OBJ_BEDROCK_PATH_DESC_]
+Sieh an, es gibt sogar Wege über die Berge. Aber pass auf, dass du genug Verpflegung für die Wanderung im Rucksack hast.
 
 [_OBJ_BUCKET#0_]
 leerer Eimer
@@ -173,7 +237,7 @@ Ein leerer Eimer. Wer gegen den Strom schwimmt, kann ihn vielleicht mit etwas Na
 gefüllter Eimer
 
 [_OBJ_BUCKET#1_DESC_]
-OBJ_BUCKET#1_DESC
+Dieser Eimer ist voller Wasser. Trinkwasser ist es nicht, das soll Dir gesagt sein!
 
 [_OBJ_BUCKET_PICKUP_]
 Schon wieder ein neues Objekt! Den Eimer gibt es nur selten, aber dafür bringt er auch nicht viel. Immerhin ein paar Bonuspunkte.
@@ -181,41 +245,80 @@ Schon wieder ein neues Objekt! Den Eimer gibt es nur selten, aber dafür bringt 
 [_OBJ_CAVE_0_]
 Höhlenwand
 
+[_OBJ_CAVE_0_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
+
 [_OBJ_CAVE_1_]
 Höhlenwand
 
 [_OBJ_CAVE_10_]
 Höhlenwand
 
+[_OBJ_CAVE_10_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
+
 [_OBJ_CAVE_11_]
 Höhlenwand
+
+[_OBJ_CAVE_11_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
 
 [_OBJ_CAVE_12_]
 Höhlenwand
 
+[_OBJ_CAVE_12_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
+
+[_OBJ_CAVE_1_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
+
 [_OBJ_CAVE_2_]
 Höhlenwand
+
+[_OBJ_CAVE_2_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
 
 [_OBJ_CAVE_3_]
 Höhlenwand
 
+[_OBJ_CAVE_3_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
+
 [_OBJ_CAVE_4_]
 Höhlenwand
+
+[_OBJ_CAVE_4_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
 
 [_OBJ_CAVE_5_]
 Höhlenwand
 
+[_OBJ_CAVE_5_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
+
 [_OBJ_CAVE_6_]
 Höhlenwand
+
+[_OBJ_CAVE_6_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
 
 [_OBJ_CAVE_7_]
 Höhlenwand
 
+[_OBJ_CAVE_7_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
+
 [_OBJ_CAVE_8_]
 Höhlenwand
 
+[_OBJ_CAVE_8_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
+
 [_OBJ_CAVE_9_]
 Höhlenwand
+
+[_OBJ_CAVE_9_DESC_]
+Wie du schon ahntest: Einfach Höhlenwände!
 
 [_OBJ_CHARLIE_]
 Charlie (nur im Editor!)
@@ -233,7 +336,7 @@ Eine solche Uhr benötigst Du unbedingt, wenn du nicht immer von vorne anfangen 
 Verdoppler
 
 [_OBJ_CLONE_DESC_]
-OBJ_CLONE_DESC
+Ein Duplikator, zum verdoppeln von Gegenständen.
 
 [_OBJ_CLONE_PICKUP_]
 Du hast einen Duplikator gefunden! Es wäre bestimmt nicht schlecht, wenn Du seltene Gegenstände doppelt hättest.
@@ -242,7 +345,7 @@ Du hast einen Duplikator gefunden! Es wäre bestimmt nicht schlecht, wenn Du sel
 Kompass
 
 [_OBJ_COMPASS_DESC_]
-OBJ_COMPASS_DESC
+Der Kompass kann Dir den richtigen Weg im Wald und Fels zeigen. Leider habe ich gerade vergessen, wie man ihn benutzt...
 
 [_OBJ_COMPASS_PICKUP_]
 Gerade hast Du den Kompaß gefunden. Er ist sehr nützlich zum Auffinden verborgener Wege.
@@ -250,11 +353,20 @@ Gerade hast Du den Kompaß gefunden. Er ist sehr nützlich zum Auffinden verborg
 [_OBJ_DEALER_]
 Händler
 
+[_OBJ_DEALER_DESC_]
+Diese mysteriöse Person kann Dir sehr hilfreich sein. Aber Sie wird Dich niemals ansprechen.
+
 [_OBJ_DIAMOND#0_]
 Diamant
 
+[_OBJ_DIAMOND#0_DESC_]
+Dieser Diamant ist wunderschön.
+
 [_OBJ_DIAMOND#1_]
 Diamant
+
+[_OBJ_DIAMOND#1_DESC_]
+Dieser Diamant ist wunderschön.
 
 [_OBJ_DIAMOND_PICKUP_]
 Dein erster Diamant! Hier liegen noch mehr herum...
@@ -262,71 +374,185 @@ Dein erster Diamant! Hier liegen noch mehr herum...
 [_OBJ_DOOR#0_]
 Tür Nr. 1
 
+[_OBJ_DOOR#0_DESC_]
+Tür Nr. 1
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
+
 [_OBJ_DOOR#1_]
 Tür Nr. 2
 
 [_OBJ_DOOR#10_]
 Tür Nr. 11
 
+[_OBJ_DOOR#10_DESC_]
+Tür Nr. 11
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
+
 [_OBJ_DOOR#11_]
 Tür Nr. 12
+
+[_OBJ_DOOR#11_DESC_]
+Tür Nr. 12
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
 
 [_OBJ_DOOR#12_]
 Tür Nr. 13
 
+[_OBJ_DOOR#12_DESC_]
+Tür Nr. 13
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
+
 [_OBJ_DOOR#13_]
 Tür Nr. 14
+
+[_OBJ_DOOR#13_DESC_]
+Tür Nr. 14
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
 
 [_OBJ_DOOR#14_]
 Tür Nr. 15
 
+[_OBJ_DOOR#14_DESC_]
+Tür Nr. 15
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
+
+[_OBJ_DOOR#1_DESC_]
+Tür Nr. 2
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
+
 [_OBJ_DOOR#2_]
 Tür Nr. 3
+
+[_OBJ_DOOR#2_DESC_]
+Tür Nr. 3
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
 
 [_OBJ_DOOR#3_]
 Tür Nr. 4
 
+[_OBJ_DOOR#3_DESC_]
+Tür Nr. 4
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
+
 [_OBJ_DOOR#4_]
 Tür Nr. 5
+
+[_OBJ_DOOR#4_DESC_]
+Tür Nr. 5
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
 
 [_OBJ_DOOR#5_]
 Tür Nr. 6
 
+[_OBJ_DOOR#5_DESC_]
+Tür Nr. 6
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
+
 [_OBJ_DOOR#6_]
 Tür Nr. 7
+
+[_OBJ_DOOR#6_DESC_]
+Tür Nr. 7
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
 
 [_OBJ_DOOR#7_]
 Tür Nr. 8
 
+[_OBJ_DOOR#7_DESC_]
+Tür Nr. 8
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
+
 [_OBJ_DOOR#8_]
 Tür Nr. 9
+
+[_OBJ_DOOR#8_DESC_]
+Tür Nr. 9
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
 
 [_OBJ_DOOR#9_]
 Tür Nr. 10
 
+[_OBJ_DOOR#9_DESC_]
+Tür Nr. 10
+
+Dies ist eine Tür. Sie wird sich jedoch nur öffnen, wenn Du den richtigen Schlüssel besitzt. Ohne ihn ist es kaum möglich, auf die andere Seite zu kommen.
+Ein Roboter wird zum Glück niemals Schlüssel besitzen.
+
 [_OBJ_DOPPELGANGER_]
 Doppelgänger
+
+[_OBJ_DOPPELGANGER_DESC_]
+Obwohl diese Figur aussieht wie Du, bewegt sie sich doch etwas anders. Aber mach' Dir keine Sorgen, das ist nur ein dummes Duplikat.
 
 [_OBJ_DOPPELGANGER_ITEM_]
 Doppelgänger Spawner
 
+[_OBJ_DOPPELGANGER_ITEM_DESC_]
+Ich hab' keine Ahnung, was das schon wieder sein soll! ...probier es doch selbst aus.
+
 [_OBJ_ELECTRIC_DOOR_0_]
 elektrische Tür (GESCHLOSSEN)
+
+[_OBJ_ELECTRIC_DOOR_0_DESC_]
+Eine elektrische Tür, derzeit ist sie geschlossen.
 
 [_OBJ_ELECTRIC_DOOR_1_]
 elektrische Tür (OFFEN)
 
+[_OBJ_ELECTRIC_DOOR_1_DESC_]
+Eine elektrische Tür, derzeit ist sie offen.
+
 [_OBJ_ELECTRIC_FENCE_]
 elektrischer Zaun (AN)
+
+[_OBJ_ELECTRIC_FENCE_DESC_]
+Du solltest diese Zäune niemals berühren, außer Du bist gerade BLAU. Es wäre schlecht für Deine Gesundheit! Aber sie könnten Dir helfen, wenn ein paar Monster hinter Dir her sind.
 
 [_OBJ_ELECTRIC_FENCE_OFF_]
 elektrischer Zaun (AUS)
 
+[_OBJ_ELECTRIC_FENCE_OFF_DESC_]
+Hast du ein Glück, das dieser elektrische Zaun gerade abgeschaltet ist, sonst würde er bei Kontakt höllisch weh tun! Andererseits hält er so auch keine ungebetenen Gäste mehr ab.
+
 [_OBJ_ELECTRIC_FLOOR_PLATE_0_]
 elektrische Bodenplatte (AUS)
 
+[_OBJ_ELECTRIC_FLOOR_PLATE_0_DESC_]
+Eine Druckplatte, die irgendwas umschaltet, aber was?
+
 [_OBJ_ELECTRIC_FLOOR_PLATE_1_]
 elektrische Bodenplatte (AN)
+
+[_OBJ_ELECTRIC_FLOOR_PLATE_1_DESC_]
+Eine Druckplatte, die irgendwas umschaltet, aber was?
 
 [_OBJ_ELEXIR_]
 Lebenselexier
@@ -352,6 +578,9 @@ Das Ausrufezeichen ist so eine Art Ratgeber. Für alles, was Dir so begegnet, ha
 [_OBJ_EXPLOSION_]
 Explosion
 
+[_OBJ_EXPLOSION_DESC_]
+Ein Problem weniger.
+
 [_OBJ_FLIPPERS_]
 Schwimmflossen
 
@@ -373,6 +602,9 @@ Nahrung
 [_OBJ_FOOD#1_DESC_]
 Proviant zum Mitnehmen.
 
+[_OBJ_FOOD_DESC_]
+Proviant zum Mitnehmen.
+
 [_OBJ_FOOD_PICKUP_]
 Ah! Du hast etwas zum Essen gefunden. Guten Appetit!
 
@@ -391,94 +623,183 @@ Puuh! So eine Knoblauchknolle schmeckt - pur genossen - zwar etwas streng, hält
 [_OBJ_GOAL_0_]
 Ziel
 
+[_OBJ_GOAL_0_DESC_]
+Das Ziel, zum greifen nah!
+
 [_OBJ_GOAL_1_]
 Ziel
+
+[_OBJ_GOAL_1_DESC_]
+Das Ziel, zum greifen nah!
 
 [_OBJ_GOAL_2_]
 Ziel
 
+[_OBJ_GOAL_2_DESC_]
+Das Ziel, zum greifen nah!
+
 [_OBJ_GOAL_3_]
 Ziel
+
+[_OBJ_GOAL_3_DESC_]
+Das Ziel, zum greifen nah!
 
 [_OBJ_GOAL_4_]
 Ziel
 
+[_OBJ_GOAL_4_DESC_]
+Das Ziel, zum greifen nah!
+
 [_OBJ_GOAL_5_]
 Ziel
+
+[_OBJ_GOAL_5_DESC_]
+Das Ziel, zum greifen nah!
 
 [_OBJ_GOLD_]
 Gold
 
+[_OBJ_GOLD_DESC_]
+Oh, das ist sehr gut, um viele Punkte zu bekommen. Es ist pures Gold!!! Bring es schnell zur Bank.
+
 [_OBJ_GRASS_0_]
 Pfad mit Beeren
+
+[_OBJ_GRASS_0_DESC_]
+Hmmmm! Leckere Beeren! Wenn Du schwächer wirst, können Sie Dir eine Stärkung sein.
 
 [_OBJ_GRASS_1_]
 Pfad
 
+[_OBJ_GRASS_1_DESC_]
+Hier hat schon einer geerntet. Für Dich ist da nichts mehr zu holen.
+
 [_OBJ_GRATE_]
 Gitter
+
+[_OBJ_GRATE_DESC_]
+Ein Gitter. Hast du irgend etwas angestellt? Jedenfalls ist es für dich unüberwindbar. Es gibt jedoch etwas, was sich davon nicht beeindrucken lässt. Vielleicht hast du es dabei...
 
 [_OBJ_GROUND_NEST_]
 Roboternest
 
+[_OBJ_GROUND_NEST_DESC_]
+Wenn Du gerade etwas gelangweilt bist, überquere mal dieses Feld.
+
 [_OBJ_HARD_SAND_0_]
 Dünen
+
+[_OBJ_HARD_SAND_0_DESC_]
+Eine Sanddüne. Für Dich leider unüberwindbar.
 
 [_OBJ_HARD_SAND_1_]
 Dünen
 
+[_OBJ_HARD_SAND_1_DESC_]
+Eine Sanddüne. Für Dich leider unüberwindbar.
+
 [_OBJ_HARD_SAND_2_]
 Dünen
+
+[_OBJ_HARD_SAND_2_DESC_]
+Eine Sanddüne. Für Dich leider unüberwindbar.
 
 [_OBJ_HARD_SAND_3_]
 Dünen
 
+[_OBJ_HARD_SAND_3_DESC_]
+Eine Sanddüne. Für Dich leider unüberwindbar.
+
 [_OBJ_HARD_SAND_4_]
 Dünen
+
+[_OBJ_HARD_SAND_4_DESC_]
+Eine Sanddüne. Für Dich leider unüberwindbar.
 
 [_OBJ_HARD_SAND_5_]
 Dünen
 
+[_OBJ_HARD_SAND_5_DESC_]
+Eine Sanddüne. Für Dich leider unüberwindbar.
+
 [_OBJ_HARD_SAND_6_]
 Dünen
+
+[_OBJ_HARD_SAND_6_DESC_]
+Eine Sanddüne. Für Dich leider unüberwindbar.
 
 [_OBJ_HARD_SAND_7_]
 Dünen
 
+[_OBJ_HARD_SAND_7_DESC_]
+Eine Sanddüne. Für Dich leider unüberwindbar.
+
 [_OBJ_ICE_0_]
 Eisfläche
+
+[_OBJ_ICE_0_DESC_]
+Eine Eisfläche. Sei bloß vorsichtig, wenn du darauf läufst!
 
 [_OBJ_ICE_1_]
 Eisfläche
 
+[_OBJ_ICE_1_DESC_]
+Eine Eisfläche. Sei bloß vorsichtig, wenn du darauf läufst!
+
 [_OBJ_ICE_2_]
 Eisfläche
+
+[_OBJ_ICE_2_DESC_]
+Eine Eisfläche. Sei bloß vorsichtig, wenn du darauf läufst!
 
 [_OBJ_ICE_3_]
 Eisfläche
 
+[_OBJ_ICE_3_DESC_]
+Eine Eisfläche. Sei bloß vorsichtig, wenn du darauf läufst!
+
 [_OBJ_ICE_4_]
 Eisfläche
+
+[_OBJ_ICE_4_DESC_]
+Eine Eisfläche. Sei bloß vorsichtig, wenn du darauf läufst!
 
 [_OBJ_ICE_BLOCK_]
 Eisblock
 
+[_OBJ_ICE_BLOCK_DESC_]
+Ein Eisblock, den du herum schieben kannst. Pass nur auf, das er nicht schmilzt.
+
 [_OBJ_ICE_DEADLY_]
 Loch im Eis
+
+[_OBJ_ICE_DEADLY_DESC_]
+Ein Loch im Eis, fall bloß nicht hinein!
 
 [_OBJ_ISOLATOR_]
 Isolator
 
+[_OBJ_ISOLATOR_DESC_]
+Du kannst diese Isolatoren in den Räumen herumschieben. Auch elektrische Zäune können damit bewegt werden. Es ist sogar möglich, sie in andere Räume zu schieben, aber nur, wenn Du dort schon warst.
+
 [_OBJ_ISOLATOR_SOFT_]
 Isolator (betretbar)
 
+[_OBJ_ISOLATOR_SOFT_DESC_]
+Dies ist auch ein "Isolator". Bloß kannst Du ihn nicht direkt verschieben, sondern brauchst noch etwas als Puffer. Prüfe mal, was passiert, wenn Du ihn direkt zu verschieben versuchst.
+
 [_OBJ_ISOLATOR_WATER_]
 Brücke (Isolator im Wasser)
+
+[_OBJ_ISOLATOR_WATER_DESC_]
+Richtig, eine Brücke! Und mit List und Tücke läßt sie sich auch anders passieren, als nur durch ein schlichtes Überqueren...!
 
 [_OBJ_KEY#0_]
 Schlüssel Nr. 1
 
 [_OBJ_KEY#0_DESC_]
+Schlüssel Nr. 1
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#1_]
@@ -488,81 +809,112 @@ Schlüssel Nr. 2
 Schlüssel Nr. 11
 
 [_OBJ_KEY#10_DESC_]
+Schlüssel Nr. 11
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#11_]
 Schlüssel Nr. 12
 
 [_OBJ_KEY#11_DESC_]
+Schlüssel Nr. 12
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#12_]
 Schlüssel Nr. 13
 
 [_OBJ_KEY#12_DESC_]
+Schlüssel Nr. 13
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#13_]
 Schlüssel Nr. 14
 
 [_OBJ_KEY#13_DESC_]
+Schlüssel Nr. 14
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#14_]
 Schlüssel Nr. 15
 
 [_OBJ_KEY#14_DESC_]
+Schlüssel Nr. 15
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#1_DESC_]
+Schlüssel Nr. 2
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#2_]
 Schlüssel Nr. 3
 
 [_OBJ_KEY#2_DESC_]
+Schlüssel Nr. 3
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#3_]
 Schlüssel Nr. 4
 
 [_OBJ_KEY#3_DESC_]
+Schlüssel Nr. 4
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#4_]
 Schlüssel Nr. 5
 
 [_OBJ_KEY#4_DESC_]
+Schlüssel Nr. 5
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#5_]
 Schlüssel Nr. 6
 
 [_OBJ_KEY#5_DESC_]
+Schlüssel Nr. 6
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#6_]
 Schlüssel Nr. 7
 
 [_OBJ_KEY#6_DESC_]
+Schlüssel Nr. 7
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#7_]
 Schlüssel Nr. 8
 
 [_OBJ_KEY#7_DESC_]
+Schlüssel Nr. 8
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#8_]
 Schlüssel Nr. 9
 
 [_OBJ_KEY#8_DESC_]
+Schlüssel Nr. 9
+
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY#9_]
 Schlüssel Nr. 10
 
 [_OBJ_KEY#9_DESC_]
+Schlüssel Nr. 10
+
+Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
+
+[_OBJ_KEY_DESC_]
 Richtig, das ist ein Schlüssel. Du mußt jetzt nur noch das passende Schlüsselloch finden. Wenn Du es nicht findest, kann er Dir vielleicht auch anders nützlich sein.
 
 [_OBJ_KEY_PICKUP_]
@@ -575,16 +927,16 @@ Man sollte es nicht glauben, es gibt auch Schlüssel, die passen! Aber weil dies
 Messer
 
 [_OBJ_KNIFE_DESC_]
-OBJ_KNIFE_DESC
+Ein Buschmesser. Wende es richtig an, und Du kannst vielleicht überleben!
 
 [_OBJ_KNIFE_PICKUP_]
-OBJ_KNIFE_PICKUP
+Ah, ein Messer! Jetzt werden Dir gewisse Pflanzen nicht mehr den Weg versperren.
 
 [_OBJ_LAMP_]
 Lampe
 
 [_OBJ_LAMP_DESC_]
-OBJ_LAMP_DESC
+Diese Lampe kann im Dunkeln sehr nützlich sein. Sonst bringt sie wenig.
 
 [_OBJ_LAMP_PICKUP_]
 Eine schöne Lampe. Möge diese Dir die erhoffte Erleuchtung bringen.
@@ -601,6 +953,9 @@ Magnet
 [_OBJ_MAGNET#1_DESC_]
 Magnetische Objekte können einen Kompass irritieren, aber sie sind nutzlos, solange Du sie mit Dir herumträgst. Sie sind ganz nützlich in Verbindung mit Objekten, die Dich nicht auf den rechten Weg lassen.
 
+[_OBJ_MAGNET_DESC_]
+Magnetische Objekte können einen Kompass irritieren, aber sie sind nutzlos, solange Du sie mit Dir herumträgst. Sie sind ganz nützlich in Verbindung mit Objekten, die Dich nicht auf den rechten Weg lassen.
+
 [_OBJ_MAGNET_PICKUP_]
 Oh, Du hast einen Magneten gefunden! Damit kannst Du diese magnetischen Sperren überwinden, auf die Du bestimmt noch stoßen wirst. Leider haben nur die besonders starken Exemplare diese Wirkung.
 
@@ -610,11 +965,20 @@ Jetzt weißt Du also auch, wie man die Magnete benutzt! Doch Achtung: Es gibt zw
 [_OBJ_MIRROR_0_]
 Spiegel
 
+[_OBJ_MIRROR_0_DESC_]
+Spieglein, Spieglein an der Wand...
+
 [_OBJ_MIRROR_1_]
 Spiegel
 
+[_OBJ_MIRROR_1_DESC_]
+Spieglein, Spieglein an der Wand...
+
 [_OBJ_MOUNTAIN_0_]
 Gebirge
+
+[_OBJ_MOUNTAIN_0_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
 
 [_OBJ_MOUNTAIN_1_]
 Gebirge
@@ -622,59 +986,119 @@ Gebirge
 [_OBJ_MOUNTAIN_10_]
 Gebirge
 
+[_OBJ_MOUNTAIN_10_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
+
 [_OBJ_MOUNTAIN_11_]
 Gebirge
+
+[_OBJ_MOUNTAIN_11_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
 
 [_OBJ_MOUNTAIN_12_]
 Gebirge
 
+[_OBJ_MOUNTAIN_12_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
+
 [_OBJ_MOUNTAIN_13_]
 Gebirge
+
+[_OBJ_MOUNTAIN_13_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
 
 [_OBJ_MOUNTAIN_14_]
 Gebirge
 
+[_OBJ_MOUNTAIN_14_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
+
 [_OBJ_MOUNTAIN_15_]
 Gebirge
+
+[_OBJ_MOUNTAIN_15_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
 
 [_OBJ_MOUNTAIN_16_]
 Gebirge
 
+[_OBJ_MOUNTAIN_16_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
+
 [_OBJ_MOUNTAIN_17_]
 Gebirge
+
+[_OBJ_MOUNTAIN_17_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
 
 [_OBJ_MOUNTAIN_18_]
 Gebirge
 
+[_OBJ_MOUNTAIN_18_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
+
 [_OBJ_MOUNTAIN_19_]
 Gebirge
+
+[_OBJ_MOUNTAIN_19_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
+
+[_OBJ_MOUNTAIN_1_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
 
 [_OBJ_MOUNTAIN_2_]
 Gebirge
 
+[_OBJ_MOUNTAIN_2_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
+
 [_OBJ_MOUNTAIN_3_]
 Gebirge
+
+[_OBJ_MOUNTAIN_3_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
 
 [_OBJ_MOUNTAIN_4_]
 Gebirge
 
+[_OBJ_MOUNTAIN_4_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
+
 [_OBJ_MOUNTAIN_5_]
 Gebirge
+
+[_OBJ_MOUNTAIN_5_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
 
 [_OBJ_MOUNTAIN_6_]
 Gebirge
 
+[_OBJ_MOUNTAIN_6_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
+
 [_OBJ_MOUNTAIN_7_]
 Gebirge
+
+[_OBJ_MOUNTAIN_7_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
 
 [_OBJ_MOUNTAIN_8_]
 Gebirge
 
+[_OBJ_MOUNTAIN_8_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
+
 [_OBJ_MOUNTAIN_9_]
 Gebirge
 
+[_OBJ_MOUNTAIN_9_DESC_]
+Dies ist Stein vulkanischen Ursprungs. Leider kannst du darauf unter keinen Umständen klettern!
+
 [_OBJ_MOUNTAIN_PATH_]
 Gebirgspfad (betretbar)
+
+[_OBJ_MOUNTAIN_PATH_DESC_]
+Du ahnst richtig, dieses Stück Fels ist anders! Jedoch ohne bestimmte Beschuhung nützt Dir diese Erkenntnis wenig.
 
 [_OBJ_MUNITION#0_]
 Munition
@@ -712,20 +1136,29 @@ Munition
 [_OBJ_MUNITION#5_DESC_]
 Diese Munition ist nutzlos, wenn Du nicht weißt, was Du damit anfangen sollst. Aber beobachte einmal die Roboter, wie sie sie benutzen.
 
+[_OBJ_MUNITION_DESC_]
+Diese Munition ist nutzlos, wenn Du nicht weißt, was Du damit anfangen sollst. Aber beobachte einmal die Roboter, wie sie sie benutzen.
+
 [_OBJ_MUNITION_PICKUP_]
 Ja, es ist bestimmt nicht von Nachteil, wenn Du ein paar Steine in die Tasche steckst. Du wirst sie bestimmt noch brauchen können.
 
 [_OBJ_NOTICE_]
 Zettel
 
+[_OBJ_NOTICE_DESC_]
+Ein Zettel. Geh' einmal hin und schaue, was drauf steht!
+
 [_OBJ_NPC_]
 NPC
+
+[_OBJ_NPC_DESC_]
+Einer der hiesigen Einwohner, unterhalte dich doch mal mit ihm.
 
 [_OBJ_OVERALL_]
 Blaumann
 
 [_OBJ_OVERALL_DESC_]
-OBJ_OVERALL_DESC
+Ein schöner blauer Anzug, oder?
 
 [_OBJ_OVERALL_PICKUP_]
 Gut siehst Du aus, in diesem blauen Anzug! Diese Kleidungsstücke schützen Dich ausgezeichnet vor diesen gemeinen Elektrozäunen.
@@ -733,185 +1166,339 @@ Gut siehst Du aus, in diesem blauen Anzug! Diese Kleidungsstücke schützen Dich
 [_OBJ_PATH_]
 Weg
 
+[_OBJ_PATH_DESC_]
+Hier könnte ein Weg sein...
+
 [_OBJ_PLANT_]
 Pflanze
 
+[_OBJ_PLANT_DESC_]
+Pass auf die Pflanze auf. Wenn Du keine Sichel besitzt, wird es schwierig, sie zu überqueren.
+
 [_OBJ_PLANT_GROWING_]
-OBJ_PLANT_GROWING
+Wachsende Pflanze
+
+[_OBJ_PLANT_GROWING_DESC_]
+Pass auf die Pflanze auf. Wenn Du keine Sichel besitzt, wird es schwierig, sie zu überqueren.
 
 [_OBJ_PLATIN_]
 Platin
 
+[_OBJ_PLATIN_DESC_]
+Dieses Stück Platin ist nutzlos für Dich. Aber vielleicht findest Du jemanden, der es haben möchte.
+
 [_OBJ_QUESTION_MARK_]
 Fragezeichen
+
+[_OBJ_QUESTION_MARK_DESC_]
+Das ist ein sehr interessantes Symbol. Es bringt Dich überall hin, wo es will.
 
 [_OBJ_RING#0_]
 Ring
 
 [_OBJ_RING#0_DESC_]
-OBJ_RING#0_DESC
+Der eine Ring... ists leider nicht.
 
 [_OBJ_RING#1_]
 Ring
 
 [_OBJ_RING#1_DESC_]
-OBJ_RING#1_DESC
+Der andere Ring.
 
 [_OBJ_RING#2_]
 Ring
 
 [_OBJ_RING#2_DESC_]
-OBJ_RING#2_DESC
+Ring Ding Ding.
 
 [_OBJ_RING#3_]
 Ring
 
 [_OBJ_RING#3_DESC_]
-OBJ_RING#3_DESC
+Könnte ein Ring der Macht sein, oder einfach nur ein Stück hübsches Metall.
+
+[_OBJ_RING_DESC_]
+Ein Ring mit besonderen Fähigkeiten.
 
 [_OBJ_RING_PICKUP_]
-Oh! Was ist denn das für ein schicker Ring? Du fragst Dich was es wohl mit ihm auf sich haben wird...
+Oh! Was ist denn das für ein schicker Ring? Du fragst Dich, was es wohl mit ihm auf sich haben wird...
 
 [_OBJ_ROBOT_]
 Roboter (zufällig)
 
+[_OBJ_ROBOT_DESC_]
+Schau an, da gibt es doch wirklich einige Roboter, die hinter Dir her sind...
+
 [_OBJ_ROBOT_FACTORY_0_]
 Roboter Fabrikator (AUS)
+
+[_OBJ_ROBOT_FACTORY_0_DESC_]
+Dies ist eine Roboterfabrik, derzeit ist sie abgeschaltet.
 
 [_OBJ_ROBOT_FACTORY_1_]
 Roboter Fabrikator (AN)
 
+[_OBJ_ROBOT_FACTORY_1_DESC_]
+Dies ist eine Roboterfabrik, und sie arbeitet auf Hochtouren. Bald läuft der nächste Roboter vom Band.
+
 [_OBJ_ROOF_0_]
 Dach
+
+[_OBJ_ROOF_0_DESC_]
+Dies ist schlicht ein Teil des Daches.
 
 [_OBJ_ROOF_1_]
 Dach
 
 [_OBJ_ROOF_10_]
-Dach
+Hauseingang
+
+[_OBJ_ROOF_10_DESC_]
+Richtig, das sind Eingänge zum Haus.
 
 [_OBJ_ROOF_11_]
-Dach
+Hauseingang
+
+[_OBJ_ROOF_11_DESC_]
+Richtig, das sind Eingänge zum Haus.
 
 [_OBJ_ROOF_12_]
 Dach
 
+[_OBJ_ROOF_12_DESC_]
+Dies ist schlicht ein Teil des Daches.
+
 [_OBJ_ROOF_13_]
-Dach
+Hauseingang
+
+[_OBJ_ROOF_13_DESC_]
+Richtig, das sind Eingänge zum Haus.
 
 [_OBJ_ROOF_14_]
-Dach
+Hauseingang
+
+[_OBJ_ROOF_14_DESC_]
+Richtig, das sind Eingänge zum Haus.
 
 [_OBJ_ROOF_15_]
 Dach
 
+[_OBJ_ROOF_15_DESC_]
+Dies ist schlicht ein Teil des Daches.
+
 [_OBJ_ROOF_16_]
 Dach
 
+[_OBJ_ROOF_16_DESC_]
+Dies ist schlicht ein Teil des Daches.
+
 [_OBJ_ROOF_17_]
-Dach
+Schornstein
+
+[_OBJ_ROOF_17_DESC_]
+Der Schornstein.
+
+[_OBJ_ROOF_1_DESC_]
+Dies ist schlicht ein Teil des Daches.
 
 [_OBJ_ROOF_2_]
-Dach
+Hauseingang
+
+[_OBJ_ROOF_2_DESC_]
+Richtig, das sind Eingänge zum Haus.
 
 [_OBJ_ROOF_3_]
-Dach
+Hauseingang
+
+[_OBJ_ROOF_3_DESC_]
+Richtig, das sind Eingänge zum Haus.
 
 [_OBJ_ROOF_4_]
-Dach
+Hauseingang
+
+[_OBJ_ROOF_4_DESC_]
+Richtig, das sind Eingänge zum Haus.
 
 [_OBJ_ROOF_5_]
-Dach
+Hauseingang
+
+[_OBJ_ROOF_5_DESC_]
+Richtig, das sind Eingänge zum Haus.
 
 [_OBJ_ROOF_6_]
 Dach
 
+[_OBJ_ROOF_6_DESC_]
+Dies ist schlicht ein Teil des Daches.
+
 [_OBJ_ROOF_7_]
 Dach
 
+[_OBJ_ROOF_7_DESC_]
+Dies ist schlicht ein Teil des Daches.
+
 [_OBJ_ROOF_8_]
-Dach
+Schornstein
+
+[_OBJ_ROOF_8_DESC_]
+Der Schornstein.
 
 [_OBJ_ROOF_9_]
 Dach
 
+[_OBJ_ROOF_9_DESC_]
+Dies ist schlicht ein Teil des Daches.
+
 [_OBJ_ROOM_EXIT_]
 Raumausgang
+
+[_OBJ_ROOM_EXIT_DESC_]
+Dies ist die Verbindung zu einem anderen Raum. Wenn Du da hineinkommst, wirst Du vielleicht beeindruckt sein.
 
 [_OBJ_SAND#0_]
 Sand
 
+[_OBJ_SAND#0_DESC_]
+Du kannst auf Sand leider nicht ganz so schnell laufen.
+
 [_OBJ_SAND#1_]
 Sand
+
+[_OBJ_SAND#1_DESC_]
+Du kannst auf Sand leider nicht ganz so schnell laufen.
 
 [_OBJ_SAND#2_]
 Sand
 
+[_OBJ_SAND#2_DESC_]
+Du kannst auf Sand leider nicht ganz so schnell laufen.
+
 [_OBJ_SAND#3_]
 Sand
+
+[_OBJ_SAND#3_DESC_]
+Du kannst auf Sand leider nicht ganz so schnell laufen.
 
 [_OBJ_SAND#4_]
 Sand
 
+[_OBJ_SAND#4_DESC_]
+Du kannst auf Sand leider nicht ganz so schnell laufen.
+
 [_OBJ_SAND_DECO_0_]
 Wüstendekoration
+
+[_OBJ_SAND_DECO_0_DESC_]
+Die Gebeine irgend eines armen Tieres, daß sich hierhin verirrt hat. Wie Du...!
 
 [_OBJ_SAND_DECO_1_]
 Wüstendekoration
 
+[_OBJ_SAND_DECO_1_DESC_]
+Die Gebeine irgend eines armen Tieres, daß sich hierhin verirrt hat. Wie Du...!
+
 [_OBJ_SAND_DECO_2_]
 Wüstendekoration
+
+[_OBJ_SAND_DECO_2_DESC_]
+Der hier sieht leicht fertig aus. Dein Vorgänger, wie es scheint. Da ist wohl nicht mehr viel zu wollen, oder?
 
 [_OBJ_SAND_PLANT_0_]
 Wüstenpflanze
 
+[_OBJ_SAND_PLANT_0_DESC_]
+Eine Pflanze, die für Dich leider ungenießbar ist.
+
 [_OBJ_SAND_PLANT_1_]
 Wüstenpflanze
+
+[_OBJ_SAND_PLANT_1_DESC_]
+Ein Strauch mit grünen, jedoch fast trockenen Blättern. Ob sie Dir schmecken?
 
 [_OBJ_SAND_PLANT_2_]
 Wüstenpflanze
 
+[_OBJ_SAND_PLANT_2_DESC_]
+Ein Strauch ohne Saft und Kraft.
+
 [_OBJ_SAND_WALL_]
 Mauer aus Sandstein
+
+[_OBJ_SAND_WALL_DESC_]
+Diese Mauer kann keiner überwinden. Aber Du könntest versuchen, sie mit einer
+ätzenden Flüssigkeit zu zerstören.
 
 [_OBJ_SAND_WALL_HARD_]
 Mauer aus Sandstein (unzerstörbar)
 
+[_OBJ_SAND_WALL_HARD_DESC_]
+Diese Mauer kann keiner überwinden. Die sitzt total unbeweglich auf dem Boden.
+
 [_OBJ_SAND_WALL_NE_]
 Mauer aus Sandstein
+
+[_OBJ_SAND_WALL_NE_DESC_]
+Diese Mauer kann keiner überwinden. Die sitzt total unbeweglich auf dem Boden.
 
 [_OBJ_SAND_WALL_NW_]
 Mauer aus Sandstein
 
+[_OBJ_SAND_WALL_NW_DESC_]
+Diese Mauer kann keiner überwinden. Die sitzt total unbeweglich auf dem Boden.
+
 [_OBJ_SAND_WALL_SE_]
 Mauer aus Sandstein
+
+[_OBJ_SAND_WALL_SE_DESC_]
+Diese Mauer kann keiner überwinden. Die sitzt total unbeweglich auf dem Boden.
 
 [_OBJ_SAND_WALL_SW_]
 Mauer aus Sandstein
 
+[_OBJ_SAND_WALL_SW_DESC_]
+Diese Mauer kann keiner überwinden. Die sitzt total unbeweglich auf dem Boden.
+
 [_OBJ_SCORPION_]
 Skorpion
+
+[_OBJ_SCORPION_DESC_]
+Dieses Exemplar ist nicht annähernd so harmlos, wie es hübsch ist.
 
 [_OBJ_SEED_]
 Samen
 
 [_OBJ_SEED_DESC_]
-OBJ_SEED_DESC
+Dies ist ein Keim einer riesigen Pflanze. Wenn Du keine Sichel besitzt, wird es schwierig, sie zu überqueren.
 
 [_OBJ_SEED_PICKUP_]
 Dies ist ein absolut alkoholfreies Korn. Falls Du Freude an Grünzeug hast, pflanze es einfach irgendwo ein.
 
+[_OBJ_SEED_USE_]
+Jetzt sieh dir nur an, wie hier alles zuwuchert.
+
 [_OBJ_SHADOW#0_]
 Schatten
+
+[_OBJ_SHADOW#0_DESC_]
+Keine Angst, ist bloß der Schatten...
 
 [_OBJ_SHADOW#1_]
 Schatten
 
+[_OBJ_SHADOW#1_DESC_]
+Keine Angst, ist bloß der Schatten...
+
 [_OBJ_SHADOW#2_]
 Schatten
 
+[_OBJ_SHADOW#2_DESC_]
+Keine Angst, ist bloß der Schatten...
+
 [_OBJ_SHARK_]
 Hai
+
+[_OBJ_SHARK_DES_]
+Diese riesige Rückenflosse gehört zu einem noch größerem Fisch. Zu einem Fisch mit sehr vielen Zähnen und großem Appetit.
 
 [_OBJ_SHOES_]
 Wanderschuhe
@@ -925,14 +1512,26 @@ Endlich hast Du die braunen Wanderschuhe gefunden! Jetzt kannst Du auf bestimmte
 [_OBJ_SHOOTER_0_]
 Geschütz
 
+[_OBJ_SHOOTER_0_DESC_]
+Ein Geschütz. Achte darauf, das du dahinter stehst, und nicht davor.
+
 [_OBJ_SHOOTER_1_]
 Geschütz
+
+[_OBJ_SHOOTER_1_DESC_]
+Ein Geschütz. Achte darauf, das du dahinter stehst, und nicht davor.
 
 [_OBJ_SHOOTER_2_]
 Geschütz
 
+[_OBJ_SHOOTER_2_DESC_]
+Ein Geschütz. Achte darauf, das du dahinter stehst, und nicht davor.
+
 [_OBJ_SHOOTER_3_]
 Geschütz
+
+[_OBJ_SHOOTER_3_DESC_]
+Ein Geschütz. Achte darauf, das du dahinter stehst, und nicht davor.
 
 [_OBJ_SHOVEL_]
 Spaten
@@ -947,13 +1546,16 @@ Eben hast Du ein wichtiges Hilfsmittel gefunden! Viele Dinge sind nämlich unter
 Sichel
 
 [_OBJ_SICKLE_DESC_]
-OBJ_SICKLE_DESC
+Du kannst diese Sichel benutzen, um ein Pflanzendickicht zu durchqueren.
 
 [_OBJ_SICKLE_PICKUP_]
 Wenn Du kein Blumenfreund bist, kannst Du mit der Sichel jeden Gärtner in den Wahnsinn treiben und Dir eine Schneise schneiden...
 
 [_OBJ_SKULL_]
 Totenkopf
+
+[_OBJ_SKULL_DESC_]
+Dieser Ort ist einfach zu erreichen, aber schwierig wieder zu verlassen. Er hilft Dir nur, wenn ihn ein Roboter betritt.
 
 [_OBJ_SLING_]
 Schleuder
@@ -973,14 +1575,23 @@ Schatz
 [_OBJ_STAIRS_DOWN_]
 Treppe (runter)
 
+[_OBJ_STAIRS_DOWN_DESC_]
+Diese Treppen führen runter.
+
 [_OBJ_STAIRS_UP_]
 Treppe (hoch)
+
+[_OBJ_STAIRS_UP_DESC_]
+Diese Treppen führen rauf.
 
 [_OBJ_START_POSITION_]
 Startposition
 
 [_OBJ_TARGET_]
 Zielscheibe
+
+[_OBJ_TARGET_DESC_]
+Eine Zielscheibe. Hey, du bist mal nicht das Ziel.
 
 [_OBJ_TELEPORT_END_0_]
 Negativ Teleporter Ziel
@@ -997,14 +1608,26 @@ Positiv Teleporter Start
 [_OBJ_THERMOPLATE_0_]
 Thermoplatte (heiß)
 
+[_OBJ_THERMOPLATE_0_DESC_]
+Eine Thermosplatte, diese ist heiß! Verbrenn dich nicht.
+
 [_OBJ_THERMOPLATE_1_]
 Thermoplatte (kalt)
+
+[_OBJ_THERMOPLATE_1_DESC_]
+Eine Thermosplatte, diese ist kalt! Frier nicht ein.
 
 [_OBJ_THERMOPLATE_2_]
 Thermoplatte (aus)
 
+[_OBJ_THERMOPLATE_2_DESC_]
+Eine Thermosplatte, diese ist abgeschaltet.
+
 [_OBJ_TORCH_]
 Fackel
+
+[_OBJ_TORCH_DESC_]
+Dies ist eine Fackel. Da sie fest im Boden steckt, kannst du sie leider nicht mitnehmen. Aber vielleicht findest du heraus, wie man sie anzünden kann...
 
 [_OBJ_TREE_]
 Weihnachtsbaum
@@ -1018,14 +1641,26 @@ Du hast einen Tannenbaum gefunden! Er kann Dich befreien, wenn Du in Bedrängnis
 [_OBJ_TUNNEL#0_]
 Tunnel
 
+[_OBJ_TUNNEL#0_DESC_]
+Ein Eingang zu einem Tunnel. Wohin der wohl führt?
+
 [_OBJ_TUNNEL#1_]
 Tunnel
+
+[_OBJ_TUNNEL#1_DESC_]
+Ein Eingang zu einem Tunnel. Wohin der wohl führt?
 
 [_OBJ_TUNNEL#2_]
 Tunnel
 
+[_OBJ_TUNNEL#2_DESC_]
+Ein Eingang zu einem Tunnel. Wohin der wohl führt?
+
 [_OBJ_TUNNEL#3_]
 Tunnel
+
+[_OBJ_TUNNEL#3_DESC_]
+Ein Eingang zu einem Tunnel. Wohin der wohl führt?
 
 [_OBJ_WALL_]
 Mauer
@@ -1033,89 +1668,179 @@ Mauer
 [_OBJ_WALL_BLACK_]
 Mauer (schwarz)
 
+[_OBJ_WALL_BLACK_DESC_]
+Dies ist einfach ein Stück Mauer!
+
 [_OBJ_WALL_BLACK_NE_]
 Mauer (schwarz)
+
+[_OBJ_WALL_BLACK_NE_DESC_]
+Dies ist einfach ein Stück Mauer!
 
 [_OBJ_WALL_BLACK_NW_]
 Mauer (schwarz)
 
+[_OBJ_WALL_BLACK_NW_DESC_]
+Dies ist einfach ein Stück Mauer!
+
 [_OBJ_WALL_BLACK_SE_]
 Mauer (schwarz)
+
+[_OBJ_WALL_BLACK_SE_DESC_]
+Dies ist einfach ein Stück Mauer!
 
 [_OBJ_WALL_BLACK_SW_]
 Mauer (schwarz)
 
+[_OBJ_WALL_BLACK_SW_DESC_]
+Dies ist einfach ein Stück Mauer!
+
+[_OBJ_WALL_DESC_]
+Diese Mauer kann keiner überwinden. Aber Du könntest versuchen, sie mit einer ätzenden Flüssigkeit zu zerstören.
+
 [_OBJ_WALL_DISSOLVE_]
 sich auflösende Mauer
+
+[_OBJ_WALL_DISSOLVE_DESC_]
+Jetzt schau dir an, was mit diesen schlecht gemauerten Mauern passiert.
 
 [_OBJ_WALL_HARD_]
 Mauer (unzerstörbar)
 
+[_OBJ_WALL_HARD_DESC_]
+Diese Mauer kann keiner überwinden. Die sitzt total unbeweglich auf dem Boden.
+
 [_OBJ_WALL_NE_]
 Mauer
+
+[_OBJ_WALL_NE_DESC_]
+Diese Mauer kann keiner überwinden. Die sitzt total unbeweglich auf dem Boden.
 
 [_OBJ_WALL_NW_]
 Mauer
 
+[_OBJ_WALL_NW_DESC_]
+Diese Mauer kann keiner überwinden. Die sitzt total unbeweglich auf dem Boden.
+
 [_OBJ_WALL_SAND_DISSOLVE_]
 Mauer aus Sandstein (Auflösend)
+
+[_OBJ_WALL_SAND_DISSOLVE_DESC_]
+Jetzt schau dir an, was mit diesen schlecht gemauerten Mauern passiert.
 
 [_OBJ_WALL_SE_]
 Mauer
 
+[_OBJ_WALL_SE_DESC_]
+Diese Mauer kann keiner überwinden. Die sitzt total unbeweglich auf dem Boden.
+
 [_OBJ_WALL_SW_]
 Mauer
+
+[_OBJ_WALL_SW_DESC_]
+Diese Mauer kann keiner überwinden. Die sitzt total unbeweglich auf dem Boden.
 
 [_OBJ_WATCHER_]
 Wächter (auf dem Boden versteckt / auf Objekten immer sichtbar)
 
+[_OBJ_WATCHER_DESC_]
+Es sieht so aus, als wäre da etwas versteckt. Du solltest Dir das mal von nahem anschauen.
+
 [_OBJ_WATER_DEADLY_]
 tödliches Wasser
+
+[_OBJ_WATER_DEADLY_DESC_]
+Pass bloß auf, das du da nicht hinein schwimmst, diese Stelle ist extrem gefährlich!
 
 [_OBJ_WATER_DEEP_]
 tiefes Wasser
 
+[_OBJ_WATER_DEEP_DESC_]
+Dieser Fluß hat eine starke Strömung. Du solltest ihn besser nicht durchschwimmen, aber es ist leider keine Brücke da.
+
 [_OBJ_WATER_NE_]
 Wasser
+
+[_OBJ_WATER_NE_DESC_]
+Wasser, der Quell des Lebens, und wenn du nicht aufpasst, des Ablebens.
 
 [_OBJ_WATER_NW_]
 Wasser
 
+[_OBJ_WATER_NW_DESC_]
+Wasser, der Quell des Lebens, und wenn du nicht aufpasst, des Ablebens.
+
 [_OBJ_WATER_PLANT_]
 Wasserpflanze
+
+[_OBJ_WATER_PLANT_DESC_]
+Endlich mal eine Pflanze, die du nicht zu gießen brauchst.
 
 [_OBJ_WATER_SE_]
 Wasser
 
+[_OBJ_WATER_SE_DESC_]
+Wasser, der Quell des Lebens, und wenn du nicht aufpasst, des Ablebens.
+
 [_OBJ_WATER_SHALLOW_]
 seichtes Wasser
+
+[_OBJ_WATER_SHALLOW_DESC_]
+Hier ist das Wasser nicht so tief, sei trotzdem auf der Hut.
 
 [_OBJ_WATER_SW_]
 Wasser
 
+[_OBJ_WATER_SW_DESC_]
+Wasser, der Quell des Lebens, und wenn du nicht aufpasst, des Ablebens.
+
 [_OBJ_WOOD_0_]
 Wald
+
+[_OBJ_WOOD_0_DESC_]
+Dies ist ein Stück des für Dich undurchringlichen Waldes. Verzage deswegen nicht, vielleicht gibt es ja bessere Stellen...
 
 [_OBJ_WOOD_1_]
 Wald
 
+[_OBJ_WOOD_1_DESC_]
+Dies ist ein Stück des für Dich undurchringlichen Waldes. Verzage deswegen nicht, vielleicht gibt es ja bessere Stellen...
+
 [_OBJ_WOOD_2_]
 Wald
+
+[_OBJ_WOOD_2_DESC_]
+Dies ist ein Stück des für Dich undurchringlichen Waldes. Verzage deswegen nicht, vielleicht gibt es ja bessere Stellen...
 
 [_OBJ_WOOD_3_]
 Wald
 
+[_OBJ_WOOD_3_DESC_]
+Dies ist ein Stück des für Dich undurchringlichen Waldes. Verzage deswegen nicht, vielleicht gibt es ja bessere Stellen...
+
 [_OBJ_WOOD_4_]
 Wald
+
+[_OBJ_WOOD_4_DESC_]
+Dies ist ein Stück des für Dich undurchringlichen Waldes. Verzage deswegen nicht, vielleicht gibt es ja bessere Stellen...
 
 [_OBJ_WOOD_5_]
 Wald
 
+[_OBJ_WOOD_5_DESC_]
+Dies ist ein Stück des für Dich undurchringlichen Waldes. Verzage deswegen nicht, vielleicht gibt es ja bessere Stellen...
+
 [_OBJ_WOOD_6_]
 Wald
 
+[_OBJ_WOOD_6_DESC_]
+Dies ist ein Stück des für Dich undurchringlichen Waldes. Verzage deswegen nicht, vielleicht gibt es ja bessere Stellen...
+
 [_OBJ_WOOD_PATH_]
 Waldpfad
+
+[_OBJ_WOOD_PATH_DESC_]
+Du ahnst richtig, das Stück Wald ist anders! Jedoch ohne bestimmte Beschuhung nützt Dir diese Erkenntnis wenig.
 
 [_Smooth_]
 Sanft
@@ -1182,6 +1907,9 @@ Du hast leider nichts dazugelernt.
 
 [_TXT_EPISODE_NAME_]
 Episodenname
+
+[_TXT_EPISODE_WON_]
+YAY! Du hast es geschafft! Du hast alle Hindernisse gemeistert, alle Gefahren überstanden, und viele Rätsel gelöst - Gratulation. Und nun auf zu neuen Abenteuern.
 
 [_TXT_FULLSCREEN_]
 Vollbild
